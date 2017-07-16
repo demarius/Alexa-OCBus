@@ -1,0 +1,21 @@
+{
+  "name": "alexa-ocbus",
+  "description": "Orange County bus queries for Alexa",
+  "author": "Demarius Chrite",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "proof platform win32 && proof test t/*/*.t.js || t/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demarius/Alexa-OCBus.git"
+  },
+  "dependencies": {
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demarius/Alexa-OCBus/issues"
+  },
+  "homepage": "https://github.com/demarius/Alexa-OCBus#readme"
+}
